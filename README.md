@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi <img alt="hi-emoji" height="100%" src="https://tenor.com/bJBHe.gif">, I'm Swagat Satprem Jena</h1>
+<h1 align="center">Hi <img alt="hi-emoji" height="100%" src="https://emojis.slackmojis.com/emojis/images/1616969161/25086/welcome.gif?1616969161">, I'm Swagat Satprem Jena</h1>
 <h3 align="center">Hope all is good, Thanks for your attention. I am from Bhubaneswar, Odisha and I completed my secondary and senior secondary schooling from Stewart School, Bhubaneswar and Mother's Public School, Bhubaneswar respectively. Currently, I am pursuing my B-Tech degree in Computer Engineering from IIIT Bhubaneswar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagat-satprem-jena&label=Profile%20views&color=0e75b6&style=flat" alt="swagat-satprem-jena" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3SBP.gif">
+<img align="right" alt="Coding" width="250" src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif">
 
 - 🌱 I’m currently learning **Angular Framework supported by Google Developers**
 
