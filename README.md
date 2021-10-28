@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img alt="hi-emoji" height="100%" src="https://emojis.slackmojis.com/emojis/images/1616969161/25086/welcome.gif?1616969161">, I'm Swagat Satprem Jena</h1>
-<h3 align="center">Hope all is good, Thanks for your attention. I am from Bhubaneswar, Odisha and I completed my secondary and senior secondary schooling from Stewart School, Bhubaneswar and Mother's Public School, Bhubaneswar respectively. Currently, I am pursuing my B-Tech degree in Computer Engineering from IIIT Bhubaneswar.</h3>
+<h3 align="center">Hope all is good, Thanks for your attention. I am from <em>Bhubaneswar, Odisha</em> and I completed my <em>secondary</em> and <em>senior secondary schooling</em> from <em>Stewart School, Bhubaneswar</em> and <em>Mother's Public School, Bhubaneswar</em> respectively. Currently, I am pursuing my <em>B-Tech</em> degree in <em>Computer Engineering</em> from <em>IIIT Bhubaneswar</em>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagat-satprem-jena&label=Profile%20views&color=0e75b6&style=flat" alt="swagat-satprem-jena" /> </p>
 
