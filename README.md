@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif">
 
-- 🌱 I’m currently learning **Angular Framework supported by Google Developers**
+- 🌱 I’m currently learning **React Library supported by Meta Developers**
 
 - 👯 I’m looking to collaborate on **Front-End projects of Web Development**
 
